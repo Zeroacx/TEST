@@ -1,5 +1,5 @@
 
-/* Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -16,7 +16,6 @@ body {
     flex-direction: column;
 }
 
-/* Header */
 header {
     text-align: center;
     padding: 60px 20px;
